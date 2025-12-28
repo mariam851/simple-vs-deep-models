@@ -27,8 +27,7 @@ The dataset contains information about students and their interaction with onlin
 
 ## How to run
 1. Clone the repository
-2. Install required packages: `pip install -r requirements.txt`
-3. Run the notebook: `Course_Completion_Analysis.ipynb`
+2. Run the notebook: `Course_Completion_Analysis.ipynb`
 
 ## Author
 Mariam Ali
